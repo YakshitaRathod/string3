@@ -5,4 +5,4 @@ for x in s:
 	if x not in out:
 		out.append(x)
 for cou in out:
-	print("The occurance of {} is {}".format(cou,s.count(cou)))
+        print("The occurance of {} is {}".format(cou,s.count(cou)))
